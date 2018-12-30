@@ -1,0 +1,9 @@
+See https://mybinder.readthedocs.io/en/latest/using.html
+
+"Launching your Binder
+Once you have prepared your repository per the instructions above, it is time to build and launch your binder-ready repo. Navigate to mybinder.org and insert the URL for your git repository. Press Launch to automatically create your Binder. The Binder service will automatically send you to a live Jupyter session connected to this repository.
+
+If a previous version of the repository has already been built, Binder will only build a new one if the git hashes don’t match. When Binder doesn’t need to build a repository, the process of connecting to the live computational environment is much faster.
+"
+
+Maybe specify particular versions in requirements.txt (e.g., numpy==1.13.1)

@@ -7,3 +7,6 @@ If a previous version of the repository has already been built, Binder will only
 "
 
 Maybe specify particular versions in requirements.txt (e.g., numpy==1.13.1)
+
+
+https://mybinder.org/v2/gh/furnstahl/binder_test/master?filepath=PendulumTest%2FPendulum_with_widgets_v0.3.ipynb
